@@ -21,8 +21,8 @@ Also, bringing in additional data would greatly improve the predictive power. In
 
 Examples below:
 * [Classification + Kafka implementation](https://github.com/DansProjects/twitter_movie_sentiment_analysis)
-* [Internal API] (https://github.com/DansProjects/twitter_movie_flask)
-* [Real-time dashboard in React] (https://github.com/DansProjects/twitter_movie_react)
+* [Internal API](https://github.com/DansProjects/twitter_movie_flask)
+* [Real-time dashboard in React](https://github.com/DansProjects/twitter_movie_react)
 
 Beyond sentiment, we could use the various text datasets from IMDB, Social Media, and even other sites like Rotten Tomatoes to predict average ratings. Additional variables to bring in could be budget - broken down into different levels, such as pre/post production, advertising, casting, sfx, film rights, etc as well as attributes about the production company and financers.
 
@@ -31,8 +31,8 @@ Finally, it may be helpful to bring in data from TV Shows. This may be especiall
 # Files
 
 * IMDB_DataPrep.ipynb - contains most of the data collection and data prep code. 
+* IMDB_Modeling.ipynb - creates predictive model using RandomForest / XGBoost
 * IMDB_EDA.ipynb - very basic data analysis - lacking due to time / scope constraints
-* IMDB_Modeling.ipynb - creates predictive model using RandomForest and XGBoost
 
 # Additional time / resources
 
