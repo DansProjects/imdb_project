@@ -11,7 +11,7 @@ One potential use case is to attempt to predict hit (or profitable) movies in th
 
 ### [2] Predict cult classics
 
-Cult classics are different than regular movies in that they typically have a very dedicated fanbase that is likely to spend more money (viewing / merchandise) and spread the word. Also, cult classics historically do not perform that well in the initial release. Instead, over time (typically many years), the fanbase grows and the movie becomes immensely profitable. If we can predict a cult classic in advance, perhaps additional advertising exposure would allow the business to turn it into a hit many years in advance, thereby capturing additional revenue. 
+Cult classics are different than regular movies in that they typically have a very dedicated fanbase that is likely to spend more money (viewing / merchandise) and spread the word. Also, cult classics historically do not perform that well in the initial release. Instead, over time (typically many years), the fanbase grows and the movie becomes immensely profitable. If we can predict a cult classic in advance, perhaps additional advertising exposure would allow the business to turn it into a hit many years in advance, thereby capturing additional revenue. (Using classification / lift for targeting)
 
 # Next steps - Additional Data
 
@@ -26,7 +26,7 @@ Examples below:
 
 Beyond sentiment, we could use the various text datasets from IMDB, Social Media, and even other sites like Rotten Tomatoes to predict average ratings. Additional variables to bring in could be budget - broken down into different levels, such as pre/post production, advertising, casting, sfx, film rights, etc as well as attributes about the production company and financers.
 
-Finally, it may be helpful to bring in data from TV Shows. This may be especially useful in predicting ratings for actors/directors/writers who are newer to movies and do not have many ratings.
+Finally, it may be helpful to bring in data from TV Shows. This may be especially useful in predicting ratings for actors/directors/writers who are newer to movies and do not have many ratings but have experience in other forms of media.
 
 # Files
 
